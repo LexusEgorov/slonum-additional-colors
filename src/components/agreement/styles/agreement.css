@@ -1,23 +1,23 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito:wght@400;700;900&family=Rubik:wght@400;500;700&family=Vollkorn:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Montserrat:wght@400;700;900&family=Roboto:wght@400;500;700&display=swap");
 .agreement {
   display: flex;
   align-items: flex-start;
   margin-bottom: 50px;
 }
 .agreement p {
-  font: normal 400 15px/25px Rubik;
+  font: normal 400 15px/25px Roboto;
   line-height: 18px;
   letter-spacing: 0.04em;
   color: #9fa0a7;
 }
 .agreement .accent {
-  color: #14a76c;
+  color: #6539c1;
   font-weight: 700;
   text-underline-offset: 3px;
-  -webkit-text-decoration-color: #14a76c;
-          text-decoration-color: #14a76c;
+  -webkit-text-decoration-color: #6539c1;
+          text-decoration-color: #6539c1;
 }
 .agreement .accent a,
 .agreement .accent a:checked {
-  color: #14a76c;
+  color: #6539c1;
 }/*# sourceMappingURL=agreement.css.map */

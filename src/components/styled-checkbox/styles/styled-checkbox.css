@@ -9,10 +9,10 @@
   width: 18.5px;
   height: 18.5px;
   border-radius: 5px;
-  border: 2px solid #14a76c;
+  border: 2px solid #6539c1;
   margin-right: 12px;
   background: #ffffff url("../../../../public/images/checkbox.svg") no-repeat center;
 }
 .styled-checkbox:checked + .styled-checkbox__label {
-  background-color: #14a76c;
+  background-color: #6539c1;
 }/*# sourceMappingURL=styled-checkbox.css.map */

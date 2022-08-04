@@ -1,10 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito:wght@400;700;900&family=Rubik:wght@400;500;700&family=Vollkorn:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Montserrat:wght@400;700;900&family=Roboto:wght@400;500;700&display=swap");
 .timer {
   display: flex;
   align-items: flex-start;
 }
 .timer .colon {
-  font: normal 900 24px/33px Nunito;
+  font: normal 900 24px/33px Montserrat;
   margin-right: 10px;
   margin-top: 13px;
   -webkit-animation: colonAnimate 1.5s ease infinite;
@@ -20,17 +20,17 @@
 }
 .timer .time__count {
   background: #ffffff;
-  font: normal 700 32px/38px Rubik;
-  color: #ff652f;
+  font: normal 700 32px/38px Roboto;
+  color: #e02d05;
   border-radius: 16px;
   padding: 11px;
   width: 70px;
   margin-bottom: 4px;
 }
 .timer .time__text {
-  font: normal 400 16px/22px Nunito;
+  font: normal 400 16px/22px Montserrat;
 }
 .timer .time__where {
-  font: normal 400 16px/22px Nunito;
+  font: normal 400 16px/22px Montserrat;
   color: #9fa0a7;
 }/*# sourceMappingURL=timer.css.map */

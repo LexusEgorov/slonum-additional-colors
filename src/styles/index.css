@@ -1,5 +1,5 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Inter&family=Nunito:wght@400;700;900&family=Rubik:wght@400;500;700&family=Vollkorn:wght@400;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Montserrat:wght@400;700;900&family=Roboto:wght@400;500;700&display=swap");
 /*Минимальное обнуление*/
 * {
   padding: 0;
@@ -16,18 +16,18 @@ body {
 
 /*Стили для заголовков*/
 h1 {
-  font: normal 700 55px/67px Nunito;
+  font: normal 700 55px/67px Montserrat;
   color: #1f1d2a;
 }
 
 h2 {
-  font: normal 700 32px/44px Nunito;
+  font: normal 700 32px/44px Montserrat;
   color: #1f1d2a;
   letter-spacing: 0.04em;
 }
 
 h3 {
-  font: normal 700 20px/28px Nunito;
+  font: normal 700 20px/28px Montserrat;
   color: #ffffff;
   letter-spacing: 0.04em;
 }
@@ -41,16 +41,16 @@ button {
 
 .btn-1 {
   border: none;
-  font: normal 700 20px/24px Rubik;
-  background: #14a76c;
+  font: normal 700 20px/24px Roboto;
+  background: #6539c1;
   color: #ffffff;
   padding: 18px 0;
-  box-shadow: 0px 15px 30px rgba(25, 218, 140, 0.25);
+  box-shadow: 0px 15px 30px rgba(106, 108, 225, 0.25);
 }
 
 .btn-2 {
   border: 1px solid #1f1d2a;
-  font: normal 400 20px/24px Rubik;
+  font: normal 400 20px/24px Roboto;
   letter-spacing: 0.04em;
   background: #ffffff;
   color: #ffffff;
@@ -75,8 +75,8 @@ button {
 
 /*Декорации текста*/
 .underline-wavy {
-  -webkit-text-decoration-color: #ff652f;
-          text-decoration-color: #ff652f;
+  -webkit-text-decoration-color: #e02d05;
+          text-decoration-color: #e02d05;
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
   -webkit-text-decoration-style: wavy;
@@ -86,8 +86,8 @@ button {
 }
 
 .underline {
-  -webkit-text-decoration-color: #ff652f;
-          text-decoration-color: #ff652f;
+  -webkit-text-decoration-color: #e02d05;
+          text-decoration-color: #e02d05;
   -webkit-text-decoration-line: underline;
           text-decoration-line: underline;
   -webkit-text-decoration-style: solid;
@@ -110,7 +110,7 @@ button {
   align-items: center;
 }
 .page-header .logo__text {
-  font: normal 500 34px/40px Rubik;
+  font: normal 500 34px/40px Roboto;
   color: #1f1d2a;
 }
 .page-header .logo__text span {
@@ -138,7 +138,7 @@ button {
 }
 .promo-block .info-column .signature {
   order: -1;
-  font: normal 400 15px/25px Rubik;
+  font: normal 400 15px/25px Roboto;
   color: #9fa0a7;
 }
 .promo-block .info-column h1 {
@@ -146,7 +146,7 @@ button {
 }
 .promo-block .info-column .description {
   margin-bottom: 60px;
-  font: normal 400 18px/27px Rubik;
+  font: normal 400 18px/27px Roboto;
   color: #4f5569;
 }
 .promo-block .info-column .time-to-go {
@@ -169,7 +169,7 @@ button {
   position: relative;
   width: 100%;
   height: 693px;
-  background: linear-gradient(326.12deg, #5d77ff 17.95%, #6539c1 89.78%);
+  background: linear-gradient(326.12deg, #ff652f 17.95%, #e02d05 89.78%);
 }
 .promo-animate-container .space__element {
   position: absolute;
@@ -352,13 +352,13 @@ button {
 }
 .about__us {
   margin-bottom: 200px;
-  font: normal 400 22px/33px Rubik;
+  font: normal 400 22px/33px Roboto;
 }
 .about__us .company {
   font-weight: 700;
 }
 .about__us .accent {
-  color: #14a76c;
+  color: #6539c1;
   font-weight: 700;
 }
 .about .for-what {
@@ -376,10 +376,10 @@ button {
   align-content: space-between;
 }
 .about .for-what .points__item .vk-link {
-  color: #ff652f;
+  color: #e02d05;
 }
 .about .for-what .points__item .vk-link::visited {
-  color: #ff652f;
+  color: #e02d05;
 }
 
 /*Пошаговый план*/
@@ -469,7 +469,7 @@ button {
 }
 .diploms .small-container .info-column p {
   width: 500px;
-  font: normal 400 18px/27px Rubik;
+  font: normal 400 18px/27px Roboto;
   color: #4f5569;
 }
 
@@ -512,7 +512,7 @@ button {
 }
 .registration .registration-form__footer .btn-1 {
   border: none;
-  font: normal 700 20px/24px Rubik;
+  font: normal 700 20px/24px Roboto;
   background: #e02d05;
   color: #ffffff;
   padding: 18px 0;
@@ -600,7 +600,7 @@ button {
 }
 .subscribe .wide-container p {
   margin-bottom: 40px;
-  font: normal 400 18px/27px Rubik;
+  font: normal 400 18px/27px Roboto;
   letter-spacing: 0.05em;
 }
 .subscribe .wide-container form {
@@ -644,7 +644,7 @@ button {
   margin-right: 200px;
 }
 .page-footer .upper-container .socs p {
-  font: normal 700 20px/27px Nunito;
+  font: normal 700 20px/27px Montserrat;
   font-weight: 400;
   letter-spacing: 0.03em;
   color: #4f5569;
@@ -657,7 +657,7 @@ button {
   margin-right: 20px;
 }
 .page-footer .upper-container .footer-navigate {
-  font: normal 700 20px/27px Nunito;
+  font: normal 700 20px/27px Montserrat;
   letter-spacing: 0.03em;
 }
 .page-footer .upper-container .footer-navigate a:not(:last-child) {
@@ -672,7 +672,7 @@ button {
   justify-content: center;
 }
 .page-footer .lower-container p {
-  font: normal 400 20px/24px Rubik;
+  font: normal 400 20px/24px Roboto;
   color: #4f5569;
   letter-spacing: 0.04em;
 }
