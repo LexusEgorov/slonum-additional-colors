@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/slonum-additional-colors/static/css/main.689eb679.css",
-    "main.js": "/slonum-additional-colors/static/js/main.bdd535f7.js",
+    "main.js": "/slonum-additional-colors/static/js/main.14ad7e1b.js",
     "static/media/subscribe.png": "/slonum-additional-colors/static/media/subscribe.bb30e3cd94ffb010ead2.png",
     "static/media/diplom.jpg": "/slonum-additional-colors/static/media/diplom.696954d5df1f7ad78e9f.jpg",
     "static/media/sky.svg": "/slonum-additional-colors/static/media/sky.7d186b5ccf67c4ed97df.svg",
@@ -10,10 +10,10 @@
     "index.html": "/slonum-additional-colors/index.html",
     "static/media/checkbox.svg": "/slonum-additional-colors/static/media/checkbox.8a15a5fb5b5b006a5272.svg",
     "main.689eb679.css.map": "/slonum-additional-colors/static/css/main.689eb679.css.map",
-    "main.bdd535f7.js.map": "/slonum-additional-colors/static/js/main.bdd535f7.js.map"
+    "main.14ad7e1b.js.map": "/slonum-additional-colors/static/js/main.14ad7e1b.js.map"
   },
   "entrypoints": [
     "static/css/main.689eb679.css",
-    "static/js/main.bdd535f7.js"
+    "static/js/main.14ad7e1b.js"
   ]
 }
