@@ -21,13 +21,13 @@ function Diploms() : JSX.Element {
           </p>
         </article>
         <Diplom
-          name="Владислава Лучковская"
+          name="Гасенко Алина"
           place={1}
-          competition="Рисунок года"
-          ageFrom={18}
-          ageTo={22}
-          city="Новосибирск"
-          date="02.08.2022"
+          competition="Мое счастливое лето"
+          ageFrom={0}
+          ageTo={4}
+          city="Калуга"
+          date="15.08.2022"
         />
       </div>
     </section>
