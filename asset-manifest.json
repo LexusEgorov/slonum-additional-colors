@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/slonum-additional-colors/static/css/main.689eb679.css",
-    "main.js": "/slonum-additional-colors/static/js/main.14ad7e1b.js",
+    "main.css": "/slonum-additional-colors/static/css/main.602d9f61.css",
+    "main.js": "/slonum-additional-colors/static/js/main.8cf43ff5.js",
     "static/media/subscribe.png": "/slonum-additional-colors/static/media/subscribe.bb30e3cd94ffb010ead2.png",
     "static/media/diplom.jpg": "/slonum-additional-colors/static/media/diplom.696954d5df1f7ad78e9f.jpg",
-    "static/media/sky.svg": "/slonum-additional-colors/static/media/sky.7d186b5ccf67c4ed97df.svg",
-    "static/media/waves.svg": "/slonum-additional-colors/static/media/waves.c774557aa0027fe87433.svg",
-    "static/media/plan-trajectory.svg": "/slonum-additional-colors/static/media/plan-trajectory.8499be3105015077a593.svg",
+    "static/media/sky.svg": "/slonum-additional-colors/static/media/sky.c720fc209a059d2721a7.svg",
+    "static/media/waves.svg": "/slonum-additional-colors/static/media/waves.6d284919b65215c6d8f9.svg",
+    "static/media/plan-trajectory.svg": "/slonum-additional-colors/static/media/plan-trajectory.c12e6b0f795431aee5a9.svg",
     "index.html": "/slonum-additional-colors/index.html",
-    "static/media/checkbox.svg": "/slonum-additional-colors/static/media/checkbox.8a15a5fb5b5b006a5272.svg",
-    "main.689eb679.css.map": "/slonum-additional-colors/static/css/main.689eb679.css.map",
-    "main.14ad7e1b.js.map": "/slonum-additional-colors/static/js/main.14ad7e1b.js.map"
+    "static/media/checkbox.svg": "/slonum-additional-colors/static/media/checkbox.1ef455351cd1a2c41c9c.svg",
+    "main.602d9f61.css.map": "/slonum-additional-colors/static/css/main.602d9f61.css.map",
+    "main.8cf43ff5.js.map": "/slonum-additional-colors/static/js/main.8cf43ff5.js.map"
   },
   "entrypoints": [
-    "static/css/main.689eb679.css",
-    "static/js/main.14ad7e1b.js"
+    "static/css/main.602d9f61.css",
+    "static/js/main.8cf43ff5.js"
   ]
 }
